@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 export default function Home() {
   return (
     <main className={"place-content-center border-16 border-transparent h-screen"}>
